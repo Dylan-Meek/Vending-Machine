@@ -1,0 +1,4 @@
+A1|Potato Crisps|3.05|Chip
+B1|Moonpie|1.80|Candy
+B2|Cowtales|1.50|Candy
+C1|Cola|1.25|Drink
